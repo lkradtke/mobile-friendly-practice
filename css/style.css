@@ -1,0 +1,26 @@
+.header {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-image: linear-gradient(rgb(67, 18, 99), rgb(5, 242, 187));
+    height: 300px;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sectiontitle {
+    font-family: 'Times New Roman', Times, serif;
+    color: #640e9e;
+    text-transform: uppercase;
+}
+
+.section1 {
+    font-family: 'Times New Roman', Times, serif;
+    padding: 30px;
+}
+
+.section2 {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: right;
+    padding: 30px;
+}
