@@ -24,3 +24,24 @@
     text-align: right;
     padding: 30px;
 }
+
+@media screen and (max-width:1024px) {
+    
+    body {
+        background-color: rgb(245, 19, 174);
+    }
+}
+
+@media screen and (max-width:768px) {
+    
+    body {
+        background-color: rgb(226, 214, 43);
+    }
+}
+
+@media screen and (max-width:480px) {
+    
+    body {
+        background-color: green;
+    }
+}
